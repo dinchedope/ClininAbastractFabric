@@ -1,0 +1,6 @@
+D:\College\4 курс 2 семестр\КПЗ\Clinik\Clinik\ClinikDLL\bin\Debug\ClinikDLL.dll
+D:\College\4 курс 2 семестр\КПЗ\Clinik\Clinik\ClinikDLL\bin\Debug\ClinikDLL.pdb
+D:\College\4 курс 2 семестр\КПЗ\Clinik\Clinik\ClinikDLL\obj\Debug\ClinikDLL.csproj.AssemblyReference.cache
+D:\College\4 курс 2 семестр\КПЗ\Clinik\Clinik\ClinikDLL\obj\Debug\ClinikDLL.csproj.CoreCompileInputs.cache
+D:\College\4 курс 2 семестр\КПЗ\Clinik\Clinik\ClinikDLL\obj\Debug\ClinikDLL.dll
+D:\College\4 курс 2 семестр\КПЗ\Clinik\Clinik\ClinikDLL\obj\Debug\ClinikDLL.pdb

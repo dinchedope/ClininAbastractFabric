@@ -9,3 +9,6 @@ D:\College\4 курс 2 семестр\КПЗ\Clinik\Clinik\Clinik\obj\Debug\Cli
 D:\College\4 курс 2 семестр\КПЗ\Clinik\Clinik\Clinik\obj\Debug\Clinik.csproj.CoreCompileInputs.cache
 D:\College\4 курс 2 семестр\КПЗ\Clinik\Clinik\Clinik\obj\Debug\Clinik.exe
 D:\College\4 курс 2 семестр\КПЗ\Clinik\Clinik\Clinik\obj\Debug\Clinik.pdb
+D:\College\4 курс 2 семестр\КПЗ\Clinik\Clinik\Clinik\bin\Debug\ClinikDLL.dll
+D:\College\4 курс 2 семестр\КПЗ\Clinik\Clinik\Clinik\bin\Debug\ClinikDLL.pdb
+D:\College\4 курс 2 семестр\КПЗ\Clinik\Clinik\Clinik\obj\Debug\Clinik.csproj.CopyComplete
